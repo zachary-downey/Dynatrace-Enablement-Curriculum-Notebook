@@ -1,4 +1,4 @@
-# Dynatrace-Enablement-Curriculum-Notebook
+# Dynatrace Enablement Curriculum Notebook
 
 Enablement Notebook for new and existing Dynatrace users to level-up their Dynatrace skill base.
 
