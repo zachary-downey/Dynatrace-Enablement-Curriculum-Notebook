@@ -1,14 +1,14 @@
 # Dynatrace-Enablement-Curriculum-Notebook
 
-Enablement Notebook for new and existing Dynatrace users to up-level their Dynatrace skillbase.
+Enablement Notebook for new and existing Dynatrace users to level-up their Dynatrace skill base.
 
 This Dynatrace Notebook contains a regimented yet flexible enablement curriculum from an Introduction to Dynatrace to advanced topics such as Dynatrace APIs and [Configuration as Code](https://github.com/Dynatrace/dynatrace-configuration-as-code).
 
 Dynatrace Users or Administrators can download the .json and upload the Dynatrace Notebook to their own tenant allowing it to be shared internally within the organization.
 
 The Dynatrace Enablement Curriculum Notebook is:
-- Safe and only contains external links to Dynatrace Documentation, Dynatrace University and hosted Observability Clinics on YouTube.
-- Open source: Copy, add, remove and customize to meet the needs or usecases of your organization or business unit.
+- Safe and only contains external links to Dynatrace Documentation, Dynatrace University, and hosted Observability Clinics on YouTube.
+- Open source: Copy, add, remove, and customize to meet the needs or use cases of your organization or business unit.
 
 ---
 
