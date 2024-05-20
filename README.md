@@ -10,6 +10,8 @@ The Dynatrace Enablement Curriculum Notebook is:
 - Safe and only contains external links to Dynatrace Documentation, Dynatrace University, and hosted Observability Clinics on YouTube.
 - Open source: Copy, add, remove, and customize to meet the needs or use cases of your organization or business unit.
 
+![Dynatrace Enablement Curriculum Notebook - In Platform](Enablement Curriculum Notebook.png?raw=true "Dynatrace Enablement Curriculum Notebook")
+
 ---
 
 |                       |                                                         **Session 1**                                                         |                                                                            **Session 2**                                                                           |                                                                           **Session 3**                                                                           |                                                       **Session 4**                                                      |                                                           **Session 5**                                                           |                                                                **Session 6**                                                               |                                                         **Session 7**                                                        |                                               **Session 8**                                              |
